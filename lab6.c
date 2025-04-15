@@ -1,4 +1,7 @@
 //6: Write a program in C to implement FIRST of a given grammar.
+//1  $ gcc lab8.c -o lab8
+//2  $ ./lab6
+
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
