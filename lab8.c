@@ -1,4 +1,5 @@
 //Write a program in C to implement Intermediate Code
+// a=b+c*d
 generation.
 #include <stdio.h>
 #include <string.h>
