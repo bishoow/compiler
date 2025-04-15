@@ -1,3 +1,4 @@
+count no of words
 $ flex filename.l
 $ cc lex.yy.c -o (filename).l
  $ ./(filename).l
