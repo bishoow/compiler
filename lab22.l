@@ -1,3 +1,5 @@
+LAB 2: Write a flex program to identify keywords, numbers, operators and
+identifiers.
 $ flex filename.l
 $ cc lex.yy.c -o (filename).l
  $ ./(filename).l
