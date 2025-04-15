@@ -1,3 +1,5 @@
+//Write a program in C to implement FOLLOW of a given
+//grammar.
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
