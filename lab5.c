@@ -1,3 +1,4 @@
+//Write a program in C to implement Shift-reduce parsing.
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
