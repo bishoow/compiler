@@ -1,3 +1,4 @@
+//6: Write a program in C to implement FIRST of a given grammar.
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
